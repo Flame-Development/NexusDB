@@ -6,13 +6,13 @@
 </div>
 
 ## About
-Nexus.DB is a top-tier & open-source local database for [JSON](https://en.wikipedia.org/wiki/JSON) and [YML](https://en.wikipedia.org/wiki/YAML) support designed to be easy to set up and use
+Nexus.DB is a top-tier & open-source local database for [JSON](https://en.wikipedia.org/wiki/JSON) support designed to be easy to set up and use
 - Beginner friendly     
 - Easy to use    
 - Persistent Storage
 - Key-Value like interface    
 - Database files inside and outside the project
-- Supports [JSON](https://en.wikipedia.org/wiki/JSON) and [YML](https://en.wikipedia.org/wiki/YAML)
+- Supports [JSON](https://en.wikipedia.org/wiki/JSON)
 - Quick respond
 
 ## Installation
