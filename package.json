@@ -1,6 +1,6 @@
 {
     "name": "nexus.db",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "description": "An advanced JSON Database",
     "main": "index.js",
     "author": "flame-development",
