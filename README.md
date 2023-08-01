@@ -66,6 +66,6 @@ db.includes("rMone") // YourMoney
 db.startsWith("YourMo") // YourMoney
 db.endsWith("oney") // YourMoney
 
-// Package Info
+// Nexus Info
 console.log(NexusDB.version)
 ```
